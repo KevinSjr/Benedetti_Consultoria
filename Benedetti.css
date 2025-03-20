@@ -181,6 +181,7 @@ flex-grow: 0;
     position: relative;
     top: 50vw;
     height: 100vw;
+     z-index: 1;
 }
 .uparrow{
     position: relative;
